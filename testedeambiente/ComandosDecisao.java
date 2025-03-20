@@ -20,7 +20,7 @@ public class ComandosDecisao {
  F V = V
  F F = F
 */
-int idade = 17;
+int idade = 18;
 int idadeMinima = 18;
 int idadeMaxima = 65;
 String res;
